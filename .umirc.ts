@@ -9,5 +9,6 @@ export default defineConfig({
   outputPath: 'docs-dist',
   mode: 'site',
   exportStatic: {}, // 将所有路由输出为 HTML 目录结构，以免刷新页面时 404
+  scripts:['https://hm.baidu.com/hm.js?e1432f90e7faf3c3f390136316bc9827']
   // more config: https://d.umijs.org/config
 });
