@@ -6,7 +6,7 @@ nav:
 
 ## Foo
 
-Demo:
+Demo11:
 
 ```tsx
 import React from 'react';
